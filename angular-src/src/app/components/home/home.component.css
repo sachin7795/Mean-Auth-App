@@ -1,0 +1,15 @@
+*{
+    text-align : center;
+    
+}
+
+.btn{
+    margin : 5px;
+    width : 200px;
+}
+
+.col-md-4{
+    
+    height : 150px;
+    text-align : left;
+}
