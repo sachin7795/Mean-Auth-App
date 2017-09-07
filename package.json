@@ -1,0 +1,23 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "my first mean app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongo": "^0.1.0",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "sachin singh",
+  "license": "ISC"
+}
